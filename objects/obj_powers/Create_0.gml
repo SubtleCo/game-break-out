@@ -5,3 +5,5 @@ image_speed = 0;
 
 direction = 270;
 speed = 5;
+
+global.countdown = false;
